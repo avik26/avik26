@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avik Ghosh</h1>
 <h3 align="center">A passionate Data Scientist and a Full Stack Web Developer 🚀 from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU">
+<img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&usqp=CAU">
 
 
 👨🏽‍💻 I’m currently **doing my Bachelor in Computer Science and Engineering**
@@ -9,7 +9,7 @@
 
 🔭 I read about **cosmos in my free time**
 
-💬 Ask me about anythingI am happy to help **I am happy to help**
+💬 Ask me about anything **I am happy to help**
 
 📫 How to reach me: **avik2608@gmail.com**
 
